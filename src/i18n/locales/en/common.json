@@ -1,0 +1,440 @@
+{
+    "hero": {
+        "title": "Welcome to School No.11 named after Oybek in Karshi city",
+        "subtitle": "Together for knowledge, education and future generation",
+        "apply": "Apply now",
+        "more": "Learn more"
+    },
+    "navbar": {
+        "logo": "School No.11 named after Oybek",
+        "home": "Home",
+        "about": "About",
+        "curriculum": "Curriculum",
+        "admissions": "Admissions",
+        "clubs": "Clubs",
+        "contact": "Contact",
+        "apply": "Apply"
+    },
+    "footer": {
+        "desc": "Together for knowledge, education and future generation",
+        "quick_links": "Quick links",
+        "contact": "Contact",
+        "newsletter": "Newsletter",
+        "subscribe_text": "Subscribe for updates",
+        "email_placeholder": "Your email",
+        "subscribe": "Subscribe",
+        "social": "Social media",
+        "copyright": "© 2026 School No.11 named after Oybek. All rights reserved."
+    },
+    "card": {
+        "schedule": {
+            "title": "Class Schedule",
+            "desc": "Explore our comprehensive educational program and innovative teaching methods"
+        },
+        "subjects": {
+            "title": "Subjects",
+            "desc": "Preparing students for a successful future on a global level"
+        },
+        "clubs": {
+            "title": "Clubs",
+            "desc": "Sports, arts, and clubs for all-round development"
+        },
+        "events": {
+            "title": "Events",
+            "desc": "Stay updated with the school calendar and events"
+        }
+    },
+    "stats": {
+        "students": "Students",
+        "teachers": "Teachers",
+        "rooms": "Rooms",
+        "experience": "Years of experience"
+    },
+    "testimonials": {
+        "title": "What people say about our school",
+        "parent": "Parent",
+        "text1": "School No.10 gave my daughter excellent knowledge. Teachers are professional and care about every student.",
+        "text2": "The school environment is great. My child feels comfortable here.",
+        "text3": "The quality of education is very high. Teachers pay attention to every student."
+    },
+    "cta": {
+        "title": "Ready to join us?",
+        "subtitle": "Start your journey to quality education today",
+        "button": "Apply now"
+    },
+    "aboutCTA": {
+        "title": "About School No.11 named after Oybek in Qarshi",
+        "subtitle": "A leading educational institution in Kashkadarya region, aiming to develop well-rounded individuals",
+        "button": "Learn more"
+    },
+    "about": {
+        "facilities": {
+            "title": "Our Facilities",
+            "subtitle": "A modern school campus with excellent conditions for learning and development",
+            "classrooms": "Modern Classrooms",
+            "labs": "Science Laboratories",
+            "library": "Library",
+            "sport": "Sports Hall",
+            "art": "Art Studio",
+            "music": "Music Room"
+        },
+        "hero": {
+            "title": "About School No. 11 named after Oybek in Karshi",
+            "subtitle": "A leading educational institution in Kashkadarya region, striving to educate well-rounded individuals"
+        },
+        "info": {
+            "title": "Bizning missiyamiz va vazifamiz",
+            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 11-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
+            "desc2": "Biz tanqidiy fikrlash, ijodkorlik va hamkorlikni rivojlantirishga ishonamiz. Bizning ahil jamoamiz o‘quvchilarning nafaqat akademik, balki ijtimoiy, hissiy va jismoniy jihatdan ham rivojlanishini ta’minlaydi.",
+            "students": "O‘quvchilar",
+            "teachers": "O‘qituvchilar"
+        },
+        "values": {
+            "title": "Our Values",
+            "quality": {
+                "title": "Quality",
+                "desc": "We strive for academic and personal excellence in everything we do"
+            },
+            "care": {
+                "title": "Care",
+                "desc": "We create an environment where every student feels valued and heard"
+            },
+            "team": {
+                "title": "Teamwork",
+                "desc": "We build strong collaboration between students, families, and teachers"
+            },
+            "innovation": {
+                "title": "Innovation",
+                "desc": "We use new ideas and technologies to improve education"
+            }
+        }
+    },
+    "team": {
+        "title": "Our Team",
+        "director": {
+            "role": "School Principal",
+            "desc": "Candidate of Pedagogical Sciences, 25+ years of experience"
+        },
+        "deputy": {
+            "role": "Deputy Director for Academic Affairs",
+            "desc": "Specialist with 18 years of experience"
+        },
+        "math": {
+            "role": "Mathematics Teacher",
+            "desc": "Winner of national competitions"
+        },
+        "teacher": {
+            "role": "Teacher",
+            "desc": "Experienced educator"
+        }
+    },
+    "curriculum": {
+        "resources": {
+            "title": "Learning Resources",
+            "download": "Download (PDF)",
+            "calendar": {
+                "title": "Academic Calendar",
+                "desc": "2025-2026 school year calendar"
+            },
+            "books": {
+                "title": "Textbook List",
+                "desc": "Recommended textbooks for all grades"
+            },
+            "grading": {
+                "title": "Grading System",
+                "desc": "Assessment criteria and evaluation system"
+            },
+            "parents": {
+                "title": "Parent Guide",
+                "desc": "Information about school life and academic expectations"
+            }
+        },
+        "hero": {
+            "title": "Curriculum",
+            "subtitle": "A comprehensive and engaging learning experience preparing every student for success"
+        }
+    },
+    "info": {
+        "title": "General Information About the Curriculum",
+        "subtitle": "Our curriculum meets the standards of the Ministry of Education of Uzbekistan and focuses on developing critical thinking, creativity, and global awareness"
+    },
+    "subjects": "Core subjects:",
+    "download": "Download curriculum",
+    "levels": {
+        "primary": {
+            "title": "Primary School (Grades 1-4)",
+            "desc": "Our primary program builds a strong foundation in literacy, numeracy, and critical thinking",
+            "s1": "Uzbek Language and Literature",
+            "s2": "Mathematics",
+            "s3": "Natural Sciences",
+            "s4": "Social Studies",
+            "s5": "Art and Music",
+            "s6": "Physical Education"
+        },
+        "middle": {
+            "title": "Middle School (Grades 5-9)",
+            "desc": "The middle school program develops deeper analytical skills and encourages students to explore their interests and talents",
+            "s1": "Advanced Uzbek Language",
+            "s2": "Algebra and Geometry",
+            "s3": "Physics, Chemistry, Biology",
+            "s4": "World History and Geography",
+            "s5": "Foreign Languages (English, Russian)",
+            "s6": "Arts",
+            "s7": "Design and Technology"
+        },
+        "high": {
+            "title": "High School (Grades 10-11)",
+            "desc": "Our high school program offers rigorous academic preparation and university-level readiness",
+            "s1": "Advanced Literature and Writing",
+            "s2": "Calculus and Statistics",
+            "s3": "Physics, Chemistry, Biology",
+            "s4": "Economics and Business",
+            "s5": "Programming and Computer Science",
+            "s6": "Psychology",
+            "s7": "Art History"
+        },
+        "programs": {
+            "title": "Special Programs",
+            "gifted": {
+                "title": "Gifted Students Program",
+                "desc": "Advanced courses and personalized approach for high-achieving students"
+            },
+            "languages": {
+                "title": "International Language Programs",
+                "desc": "Learning English, Russian and other foreign languages with international certification opportunities"
+            },
+            "stem": {
+                "title": "STEM Education",
+                "desc": "Modern education focused on science, technology, engineering and mathematics"
+            }
+        }
+    },
+    "teachers": {
+        "title": "Our Teachers",
+        "subtitle": "Meet our experienced and qualified teachers",
+        "search": "Search by teacher or subject...",
+        "contact": "Send message",
+        "math": "Mathematics and Physics",
+        "uzbek": "Uzbek Language and Literature",
+        "history": "History and Social Studies",
+        "english": "English Language",
+        "physics": "Physics",
+        "chemistry": "Chemistry",
+        "it": "Computer Science",
+        "primary": "Primary Education",
+        "exp1": "Master's degree, 15 years of experience",
+        "exp2": "PhD in Philology, 20 years of experience",
+        "exp3": "PhD in History, 18 years of experience",
+        "exp4": "CELTA certified, 12 years of experience",
+        "exp5": "Physics specialist, 10 years of experience",
+        "exp6": "Chemistry teacher, 9 years of experience",
+        "exp7": "Programming and IT specialist",
+        "exp8": "Primary school teacher"
+    },
+    "admissions": {
+        "hero": {
+            "title": "Admissions",
+            "subtitle": "Join our school community and start an exciting educational journey"
+        },
+        "process": {
+            "title": "Admission Process",
+            "step1": {
+                "title": "1. Submit Application",
+                "desc": "Fill out the online application form or visit the school to submit a paper application"
+            },
+            "step2": {
+                "title": "2. School Tour",
+                "desc": "Sign up for a campus tour and get to know our team and facilities"
+            },
+            "step3": {
+                "title": "3. Interview",
+                "desc": "We will conduct an interview to learn more about your child"
+            },
+            "step4": {
+                "title": "4. Admission Decision",
+                "desc": "We will notify you of the decision within 2 weeks after reviewing your application"
+            }
+        },
+        "form": {
+            "title": "Online Application Form",
+            "subtitle": "Fill out the form below and our admissions team will contact you",
+            "student": "Student Information",
+            "name": "First Name",
+            "surname": "Last Name",
+            "class": "Select Class",
+            "parent": "Parent Information",
+            "fullname": "Full Name",
+            "phone": "Phone Number",
+            "extra": "Additional Information",
+            "address": "Address",
+            "school": "Previous School",
+            "notes": "Additional Notes",
+            "submit": "Submit Application"
+        },
+        "payment": {
+            "title": "Fee Structure",
+            "grade": "Grade Level",
+            "yearly": "Annual Fee",
+            "registration": "Registration Fee",
+            "primary": "Primary School (1-4)",
+            "middle": "Middle School (5-9)",
+            "high": "High School (10-11)",
+            "note": "* Fees include textbooks, sports uniform, and meals. Additional clubs may require extra charges."
+        },
+        "dates": {
+            "title": "Important Dates",
+            "may": {
+                "date": "May 1 - May 15",
+                "title": "Admission Decisions",
+                "desc": "Families receive admission decisions"
+            },
+            "june": {
+                "date": "June 1",
+                "title": "Enrollment Opens",
+                "desc": "Accepted students complete enrollment"
+            }
+        },
+        "contact": {
+            "title": "Have questions?",
+            "subtitle": "Contact us to get more information about the admission process"
+        }
+    },
+    "clubs": {
+        "hero": {
+            "title": "Clubs and Activities",
+            "subtitle": "A variety of opportunities to develop students' interests and talents"
+        },
+        "programs": {
+            "title": "Our Programs",
+            "tabs": {
+                "all": "All",
+                "sport": "Sports",
+                "art": "Art",
+                "clubs": "Clubs"
+            },
+            "sport": {
+                "title": "Sports Programs",
+                "desc": "Basketball, football, swimming, athletics and other sports"
+            },
+            "art": {
+                "title": "Visual Arts",
+                "desc": "Drawing, sculpture and creative workshops"
+            },
+            "music": {
+                "title": "Music & Performing Arts",
+                "desc": "Orchestra, choir, theatre and stage performances"
+            },
+            "robotics": {
+                "title": "Robotics",
+                "desc": "Hands-on programming and technology activities"
+            }
+        },
+        "events": {
+            "title": "Upcoming Events",
+            "science": {
+                "title": "Science Fair",
+                "desc": "Annual exhibition of students' research projects and innovations.",
+                "location": "Main Hall"
+            },
+            "music": {
+                "title": "Spring Musical",
+                "desc": "This year's performance: \"Melody of Kindness\"",
+                "location": "Theatre"
+            },
+            "culture": {
+                "title": "International Day",
+                "desc": "Celebrate cultural diversity with performances and cuisine.",
+                "location": "School Yard"
+            },
+            "basket": {
+                "title": "Basketball Championship",
+                "desc": "Final match of the inter-school basketball tournament.",
+                "location": "Sports Complex"
+            },
+            "art": {
+                "title": "Art Exhibition",
+                "desc": "Amazing artworks created by students.",
+                "location": "Art Gallery"
+            },
+            "book": {
+                "title": "Book Week",
+                "desc": "Meet authors, discussions and book fair.",
+                "location": "Library"
+            }
+        },
+        "join": {
+            "title": "Join Our Community",
+            "subtitle": "Discover new opportunities and unlock your talents",
+            "button": "Learn More"
+        }
+    },
+    "contact": {
+        
+        "hours": {
+            "title": "Working Hours",
+            "school": "School Days",
+            "school_days": "Monday - Friday",
+            "school_time": "8:00 - 17:00",
+            "admission": "Admissions Office",
+            "admission_days": "Monday - Friday",
+            "admission_time": "9:00 - 16:00",
+            "note": "*Closed on weekends and public holidays"
+        },
+        "hero": {
+            "title": "Contact",
+            "subtitle": "We are ready to answer your questions and provide more information about School No. 10 in Karshi city"
+        },
+        "info": {
+            "address": {
+                "title": "Visit Us",
+                "line1": "Karshi city",
+                "line2": "Kashkadarya region, Uzbekistan"
+            },
+            "phone": {
+                "title": "Call Us",
+                "number": "+998 90 123 11 22",
+                "time": "Mon-Fri: 8:00 - 17:00"
+            },
+            "email": {
+                "title": "Email Us",
+                "address": "school10@karshi.uz",
+                "desc": "We respond within 24 hours"
+            }
+        },
+        "form": {
+            "title": "Send Us a Message",
+            "subtitle": "Fill out the form below and we will get back to you as soon as possible",
+            "name": "Full Name",
+            "email": "Email Address",
+            "phone": "Phone Number",
+            "subject": "Inquiry Type",
+            "select": "Select inquiry type",
+            "message": "Message",
+            "messagePlaceholder": "Tell us how we can help you...",
+            "button": "Send Message",
+            "options": {
+                "admission": "Admissions",
+                "general": "General Inquiry",
+                "other": "Other"
+            }
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Find answers to common questions about our school",
+        "q1": "What is the student-teacher ratio?",
+        "a1": "On average, there are 15-20 students per class.",
+        "q2": "Is transportation available?",
+        "a2": "Yes, school buses are available.",
+        "q3": "What languages are taught?",
+        "a3": "Uzbek, Russian, and English are taught.",
+        "q4": "Is lunch provided?",
+        "a4": "Yes, hot meals are provided for students.",
+        "q5": "What are the school hours?",
+        "a5": "Monday to Friday, from 8:00 AM to 5:00 PM.",
+        "q6": "How can I schedule a campus tour?",
+        "a6": "You can register in advance.",
+        "q7": "What sports programs are available?",
+        "a7": "Football, basketball, swimming, and more."
+    }
+}

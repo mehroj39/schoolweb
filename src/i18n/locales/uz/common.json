@@ -1,0 +1,459 @@
+{
+    "hero": {
+        "title": "Qarshi shahri 11-sonli Oybek nomidagi maktabga xush kelibsiz",
+        "subtitle": "Bilim, tarbiya va kelajak avlod uchun birga",
+        "apply": "Qabul bo‘lish",
+        "more": "Batafsil ma'lumot"
+    },
+    "navbar": {
+        "logo": "Oybek nomidagi 11-maktab",
+        "home": "Bosh sahifa",
+        "about": "Maktab haqida",
+        "curriculum": "O‘quv dasturi",
+        "admissions": "Qabul",
+        "clubs": "To‘garaklar",
+        "contact": "Aloqa",
+        "apply": "Ariza topshirish"
+    },
+    "footer": {
+        "desc": "Bilim, tarbiya va kelajak avlod uchun birga",
+        "quick_links": "Tezkor havolalar",
+        "contact": "Aloqa",
+        "newsletter": "Yangiliklar",
+        "subscribe_text": "Yangiliklar uchun obuna bo‘ling",
+        "email_placeholder": "Email manzilingiz",
+        "subscribe": "Obuna bo‘lish",
+        "social": "Ijtimoiy tarmoqlar",
+        "copyright": "© 2026 Qarshi shahri 11-sonli Oybek nomidagi umumiy o‘rta ta’lim maktabi. Barcha huquqlar himoyalangan."
+    },
+    "card": {
+        "schedule": {
+            "title": "Dars jadvali",
+            "desc": "Bizning kompleks ta'lim dasturi va innovatsion o‘qitish usullarini o‘rganing"
+        },
+        "subjects": {
+            "title": "Fanlar",
+            "desc": "O‘quvchilarni jahon miqyosida muvaffaqiyatli kelajakka tayyorlash"
+        },
+        "clubs": {
+            "title": "To‘garaklar",
+            "desc": "Har tomonlama rivojlanish uchun sport, san’at va to‘garaklar"
+        },
+        "events": {
+            "title": "Tadbirlar",
+            "desc": "Maktab taqvimi va tadbirlari haqida xabardor bo‘ling"
+        }
+    },
+    "stats": {
+        "students": "O‘quvchilar",
+        "teachers": "O‘qituvchilar",
+        "rooms": "Xonalar",
+        "experience": "Yillik tajriba"
+    },
+    "testimonials": {
+        "title": "Maktabimiz haqida fikrlar",
+        "parent": "Ota-ona",
+        "text1": "10-maktab qizimga ajoyib bilimlar berdi. O‘qituvchilar professional va har bir o‘quvchiga g‘amxo‘rlik qiladi.",
+        "text2": "Maktab muhiti juda yaxshi. Farzandim bu yerda o‘zini erkin his qiladi.",
+        "text3": "Ta’lim sifati juda yuqori. O‘qituvchilar har bir bolaga alohida e’tibor beradi."
+    },
+    "cta": {
+        "title": "Bizga qo‘shilishga tayyormisiz?",
+        "subtitle": "Sifatli ta’limga yo‘lingizni bugun boshlang",
+        "button": "Ariza topshirish"
+    },
+    "aboutCTA": {
+        "title": "Qarshi shahri 11-sonli Oybek nomidagi maktab haqida",
+        "subtitle": "Qashqadaryo viloyatining yetakchi ta'lim muassasasi, har tomonlama rivojlangan va uyg‘un shaxslarni tarbiyalashga intiladi",
+        "button": "Batafsil ma'lumot"
+    },
+    "about": {
+        "facilities": {
+            "title": "Bizning xonalarimiz",
+            "subtitle": "O‘qitish va rivojlanish uchun ajoyib sharoitlarga ega zamonaviy maktab kampusi",
+            "classrooms": "Zamonaviy sinflar",
+            "labs": "Ilmiy laboratoriyalar",
+            "library": "Kutubxona",
+            "sport": "Sport zali",
+            "art": "Badiiy studiya",
+            "music": "Musiqa sinfi"
+        },
+        "hero": {
+            "title": "Qarshi shahri 11-sonli Oybek nomidagi maktab haqida",
+            "subtitle": "Qashqadaryo viloyatining yetakchi ta'lim muassasasi, har tomonlama rivojlangan va uyg‘un shaxslarni tarbiyalashga intiladi"
+        },
+        "info": {
+            "title": "Bizning missiyamiz va vazifamiz",
+            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 11-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
+            "desc2": "Biz tanqidiy fikrlash, ijodkorlik va hamkorlikni rivojlantirishga ishonamiz. Bizning ahil jamoamiz o‘quvchilarning nafaqat akademik, balki ijtimoiy, hissiy va jismoniy jihatdan ham rivojlanishini ta’minlaydi.",
+            "students": "O‘quvchilar",
+            "teachers": "O‘qituvchilar"
+        },
+        "values": {
+            "title": "Bizning qadriyatlarimiz",
+            "quality": {
+                "title": "Sifat",
+                "desc": "Biz qilayotgan hamma ishda akademik va shaxsiy mukammallikka intilamiz"
+            },
+            "care": {
+                "title": "G'amxo'rlik",
+                "desc": "Biz har bir o‘quvchi o‘zini muhim va eshitilgan his qiladigan muhit yaratamiz"
+            },
+            "team": {
+                "title": "Jamoa",
+                "desc": "Biz o‘quvchilar, oilalar va o‘qituvchilar o‘rtasida mustahkam hamkorlik o‘rnatamiz"
+            },
+            "innovation": {
+                "title": "Innovatsiya",
+                "desc": "Biz o‘qitishni yaxshilash uchun yangi g‘oyalar va texnologiyalarni qo‘llaymiz"
+            }
+        }
+    },
+    "team": {
+        "title": "Bizning jamoamiz",
+        "director": {
+            "role": "Maktab direktori",
+            "desc": "Pedagogika fanlari nomzodi, 25+ yillik tajriba"
+        },
+        "deputy": {
+            "role": "O‘quv ishlari bo‘yicha direktor o‘rinbosari",
+            "desc": "18 yillik ish tajribasiga ega mutaxassis"
+        },
+        "math": {
+            "role": "Matematika o‘qituvchisi",
+            "desc": "Respublika tanlovlari g‘olibi"
+        },
+        "teacher": {
+            "role": "O‘qituvchi",
+            "desc": "Tajribali pedagog"
+        }
+    },
+    "curriculum": {
+        "resources": {
+            "title": "O‘quv resurslari",
+            "download": "Yuklab olish (PDF)",
+            "calendar": {
+                "title": "O‘quv kalendari",
+                "desc": "2025-2026 o‘quv yili kalendari"
+            },
+            "books": {
+                "title": "Darslik ro‘yxati",
+                "desc": "Barcha sinflar uchun tavsiya etilgan darsliklar"
+            },
+            "grading": {
+                "title": "Baholash tizimi",
+                "desc": "O‘quvchilarni baholash mezonlari va tartibi"
+            },
+            "parents": {
+                "title": "Ota-onalar uchun qo‘llanma",
+                "desc": "Maktab hayoti va akademik talablar haqida"
+            }
+        },
+        "programs": {
+            "title": "Maxsus dasturlar",
+            "gifted": {
+                "title": "Iqtidorli bolalar dasturi",
+                "desc": "Yuqori natijalarga erishgan o‘quvchilar uchun maxsus ilg‘or kurslar va individual yondashuv"
+            },
+            "languages": {
+                "title": "Xalqaro til dasturlari",
+                "desc": "Ingliz, rus va boshqa chet tillarini o‘rganish, xalqaro sertifikatlar olish imkoniyati"
+            },
+            "stem": {
+                "title": "STEM ta'limi",
+                "desc": "Fan, texnologiya, muhandislik va matematikaga yo‘naltirilgan zamonaviy ta'lim"
+            }
+        },
+        "hero": {
+            "title": "O‘quv dasturi",
+            "subtitle": "Har bir o‘quvchini muvaffaqiyatga tayyorlovchi kompleks va qiziqarli ta'lim tajribasi"
+        },
+        "info": {
+            "title": "O‘quv dasturi bo‘yicha umumiy ma'lumot",
+            "subtitle": "Bizning o‘quv dasturimiz O‘zbekiston Respublikasi Ta'lim vazirligi standartlariga mos keladi va tanqidiy fikrlash, ijodkorlik va global ongni rivojlantirishga qaratilgan"
+        },
+        "subjects": "Asosiy fanlar:",
+        "download": "O‘quv rejasini yuklab olish",
+        "levels": {
+            "primary": {
+                "title": "Boshlang‘ich maktab (1-4 sinflar)",
+                "desc": "Boshlang‘ich dasturimiz savodxonlik, hisoblash va tanqidiy fikrlashda mustahkam poydevor yaratadi",
+                "s1": "O‘zbek tili va adabiyoti",
+                "s2": "Matematika",
+                "s3": "Tabiiy fanlar",
+                "s4": "Ijtimoiy fanlar",
+                "s5": "San’at va musiqa",
+                "s6": "Jismoniy tarbiya"
+            },
+            "middle": {
+                "title": "O‘rta maktab (5-9 sinflar)",
+                "desc": "O‘rta maktab dasturi o‘quvchilarni chuqurroq tahlil qilish ko‘nikmalarini rivojlantirishga va qiziqishlarini ochishga yordam beradi",
+                "s1": "Ilg‘or o‘zbek tili",
+                "s2": "Algebra va geometriya",
+                "s3": "Fizika, kimyo, biologiya",
+                "s4": "Jahon tarixi va geografiya",
+                "s5": "Chet tillari (Ingliz, Rus)",
+                "s6": "San’at",
+                "s7": "Dizayn va texnologiya"
+            },
+            "high": {
+                "title": "Yuqori maktab (10-11 sinflar)",
+                "desc": "Yuqori maktab dasturi universitetga tayyorlovchi chuqur akademik bilim beradi",
+                "s1": "Ilg‘or adabiyot va yozuv",
+                "s2": "Kalkulyus va statistika",
+                "s3": "Fizika, kimyo, biologiya",
+                "s4": "Iqtisodiyot va biznes",
+                "s5": "Dasturlash va informatika",
+                "s6": "Psixologiya",
+                "s7": "San’at tarixi"
+            }
+        }
+    },
+    "teachers": {
+        "title": "O‘qituvchilar ro‘yxati",
+        "subtitle": "Tajribali va malakali o‘qituvchilarimiz bilan tanishing",
+        "search": "O‘qituvchi yoki fan bo‘yicha qidirish...",
+        "contact": "Xat yuborish",
+        "math": "Matematika va fizika",
+        "uzbek": "O‘zbek tili va adabiyoti",
+        "history": "Tarix va ijtimoiy fanlar",
+        "english": "Ingliz tili",
+        "physics": "Fizika",
+        "chemistry": "Kimyo",
+        "it": "Informatika",
+        "primary": "Boshlang‘ich sinf",
+        "exp1": "O‘zbekiston Milliy universiteti magistri, 15 yillik tajriba",
+        "exp2": "Filologiya fanlari nomzodi, 20 yillik tajriba",
+        "exp3": "Tarix fanlari nomzodi, 18 yillik tajriba",
+        "exp4": "CELTA sertifikati, 12 yillik tajriba",
+        "exp5": "Fizika bo‘yicha mutaxassis, 10 yillik tajriba",
+        "exp6": "Kimyo fanlari o‘qituvchisi, 9 yillik tajriba",
+        "exp7": "Dasturlash va IT mutaxassisi",
+        "exp8": "Boshlang‘ich ta’lim o‘qituvchisi"
+    },
+    "admissions": {
+        "hero": {
+            "title": "Qabul",
+            "subtitle": "Maktabimiz jamiyatiga qo‘shilish va ajoyib ta’lim safarini boshlash"
+        },
+        "process": {
+            "title": "Qabul jarayoni",
+            "step1": {
+                "title": "1. Ariza topshirish",
+                "desc": "Quyidagi onlayn ariza formasini to‘ldiring yoki maktabga tashrif buyurib qog‘oz arizani topshiring"
+            },
+            "step2": {
+                "title": "2. Maktabni ko‘rib chiqish",
+                "desc": "Maktabimiz kampusi bo‘ylab ekskursiya uchun yoziling va jamoamiz hamda xizmatlarimiz bilan tanishing"
+            },
+            "step3": {
+                "title": "3. Suhbat",
+                "desc": "Qabul qilish jamoasi bilan suhbat o‘tkazamiz va bolangiz haqida ko‘proq bilib olamiz"
+            },
+            "step4": {
+                "title": "4. Qabul qarori",
+                "desc": "Arizangizni ko‘rib chiqqandan keyin 2 hafta ichida qabul qarorimiz haqida xabar beramiz"
+            }
+        },
+        "form": {
+            "title": "Onlayn ariza formasi",
+            "subtitle": "Quyidagi formani to'ldiring, qabul jamoamiz siz bilan bog'lanadi",
+            "student": "O'quvchi ma'lumotlari",
+            "name": "Ismi",
+            "surname": "Familiyasi",
+            "class": "Sinfni tanlang",
+            "parent": "Ota-ona ma'lumotlari",
+            "fullname": "To'liq ismi",
+            "phone": "Telefon raqami",
+            "extra": "Qo'shimcha ma'lumot",
+            "address": "Manzil",
+            "school": "Avvalgi maktab",
+            "notes": "Qo'shimcha izohlar",
+            "submit": "Ariza topshirish"
+        },
+        "payment": {
+            "title": "To'lov tuzilmasi",
+            "grade": "Sinf darajasi",
+            "yearly": "Yillik to'lov",
+            "registration": "Ro'yxatdan o'tish to'lovi",
+            "primary": "Boshlang'ich sinf (1-4)",
+            "middle": "O'rta sinf (5-9)",
+            "high": "Yuqori sinf (10-11)",
+            "note": "* To'lovga darsliklar, sport kiyimlari va ovqat kiradi. Qo'shimcha to'garaklar uchun alohida haq olinishi mumkin."
+        },
+        "dates": {
+            "jan_mar": {
+                "date": "1-Yanvar - 15-Mart",
+                "title": "Ariza qabul qilish oynasi",
+                "desc": "Kelgusi o‘quv yili uchun arizalar qabul qilinadi"
+            },
+            "mar": {
+                "date": "1-Mart - 31-Mart",
+                "title": "Maktabni ko‘rib chiqish",
+                "desc": "Rejalashtirish uchun ekskursiyalar mavjud"
+            },
+            "apr": {
+                "date": "1-Aprel - 30-Aprel",
+                "title": "Suhbatlar",
+                "desc": "Ariza topshirgan oilalar bilan suhbatlar"
+            },
+            "may": {
+                "date": "1-May - 15-May",
+                "title": "Qabul qarorlari",
+                "desc": "Oilalarga qabul qarorlari yuboriladi"
+            },
+            "jun": {
+                "date": "1-Iyun",
+                "title": "Ro‘yxatdan o‘tish ochilishi",
+                "desc": "Qabul qilingan o‘quvchilar ro‘yxatdan o‘tadilar"
+            },
+            "title": "Muhim sanalar",
+            "june": {
+                "date": "1-Iyun",
+                "title": "Ro'yxatdan o'tish ochilishi",
+                "desc": "Qabul qilingan o'quvchilar ro'yxatdan o'tadilar"
+            }
+        },
+        "contact": {
+            "title": "Есть вопросы?",
+            "subtitle": "Свяжитесь с нами, чтобы получить дополнительную информацию о процессе поступления"
+        }
+    },
+    "clubs": {
+        "hero": {
+            "title": "To‘garaklar va faoliyatlar",
+            "subtitle": "O‘quvchilarning qiziqishlarini oshiruvchi va iste'dodlarini rivojlantiruvchi xilma-xil imkoniyatlar"
+        },
+        "programs": {
+            "title": "Bizning dasturlarimiz",
+            "tabs": {
+                "all": "Barchasi",
+                "sport": "Sport",
+                "art": "San'at",
+                "clubs": "To'garaklar"
+            },
+            "sport": {
+                "title": "Sport dasturlari",
+                "desc": "Basketbol, futbol, suzish, yengil atletika va boshqa sport turlari"
+            },
+            "art": {
+                "title": "Tasviriy san'at",
+                "desc": "Rasm, haykaltaroshlik va ijodiy ustaxonalar"
+            },
+            "music": {
+                "title": "Musiqa va ijro san'ati",
+                "desc": "Orkestr, xor, teatr va sahna chiqishlari"
+            },
+            "robotics": {
+                "title": "Robototexnika",
+                "desc": "Dasturlash va texnologiyaga oid amaliy mashg‘ulotlar"
+            }
+        },
+        "events": {
+            "title": "Yaqinlashib kelayotgan tadbirlar",
+            "science": {
+                "title": "Ilmiy ko‘rgazma",
+                "desc": "O‘quvchilarning ilmiy tadqiqot loyihalari va innovatsiyalarining yillik ko‘rgazmasi.",
+                "location": "Asosiy zal"
+            },
+            "music": {
+                "title": "Bahorgi musiqiy",
+                "desc": "Bu yilgi spektakl: \"Mehribonlik melodiyasi\"",
+                "location": "Teatr"
+            },
+            "culture": {
+                "title": "Xalqaro kun",
+                "desc": "Madaniy chiqishlar va milliy taomlar bilan rang-barang jamiyatimizni nishonlang.",
+                "location": "Maktab hovlisi"
+            },
+            "basket": {
+                "title": "Basketbol chempionati",
+                "desc": "Maktablararo basketbol turnirining final o'yini.",
+                "location": "Sport majmuasi"
+            },
+            "art": {
+                "title": "San'at ko'rgazmasi",
+                "desc": "O'quvchilar tomonidan yaratilgan ajoyib san'at asarlari.",
+                "location": "San'at galereyasi"
+            },
+            "book": {
+                "title": "Kitoblar haftaligi",
+                "desc": "Mualliflar, adabiy muhokamalar va kitoblar yarmarkasiga tashrif.",
+                "location": "Kutubxona"
+            }
+        },
+        "join": {
+            "title": "Bizning jamoamizga qo'shiling",
+            "subtitle": "Keng imkoniyatlarni kashf eting va o'z iste'dodlaringizni ochib bering",
+            "button": "Batafsil ma'lumot"
+        }
+    },
+    "contact": {
+        "hours": {
+            "title": "Ish vaqti",
+            "school": "Maktab kunlari",
+            "school_days": "Dushanba - Juma",
+            "school_time": "8:00 - 17:00",
+            "admission": "Qabul idorasi",
+            "admission_days": "Dushanba - Juma",
+            "admission_time": "9:00 - 16:00",
+            "note": "*Dam olish kunlari va bayram kunlarida yopiq"
+        },
+        "hero": {
+            "title": "Aloqa",
+            "subtitle": "Biz savollaringizga javob berishga va Qarshi shahar 10-maktab haqida ko'proq ma'lumot berishga tayyormiz"
+        },
+        "info": {
+            "address": {
+                "title": "Bizga tashrif buyuring",
+                "line1": "Qarshi shahri",
+                "line2": "Qashqadaryo viloyati, O'zbekiston"
+            },
+            "phone": {
+                "title": "Bizga qo'ng'iroq qiling",
+                "number": "+998 90 123 11 22",
+                "time": "Dush-Jum: 8:00 - 17:00"
+            },
+            "email": {
+                "title": "Bizga yozing",
+                "address": "school10@karshi.uz",
+                "desc": "24 soat ichida javob beramiz"
+            }
+        },
+        "form": {
+            "title": "Bizga xabar yuboring",
+            "subtitle": "Quyidagi formani to'ldiring, biz imkon qadar tezroq sizga javob beramiz",
+            "name": "To'liq ismi",
+            "email": "Email manzili",
+            "phone": "Telefon raqami",
+            "subject": "So'rov turi",
+            "select": "So'rov turini tanlang",
+            "message": "Xabar",
+            "messagePlaceholder": "Bizga sizga qanday yordam bera olishimizni ayting...",
+            "button": "Xabar yuborish",
+            "options": {
+                "admission": "Qabul bo'yicha",
+                "general": "Umumiy savol",
+                "other": "Boshqa"
+            }
+        }
+    },
+    "faq": {
+        "title": "Ko‘p so‘raladigan savollar",
+        "subtitle": "Maktabimiz haqida umumiy savollarga javoblarni toping",
+        "q1": "O‘quvchi-o‘qituvchi nisbati qanday?",
+        "a1": "Har bir sinfda o‘rtacha 15-20 nafar o‘quvchi mavjud.",
+        "q2": "Transport xizmati bormi?",
+        "a2": "Ha, maktab avtobuslari mavjud.",
+        "q3": "Maktabda qanday tillar o‘rgatiladi?",
+        "a3": "O‘zbek, rus va ingliz tillari o‘rgatiladi.",
+        "q4": "Maktabda tushlik beriladimi?",
+        "a4": "Ha, o‘quvchilar uchun issiq ovqat taqdim etiladi.",
+        "q5": "Maktab soatlari qanday?",
+        "a5": "Dushanbadan jumagacha 8:00 dan 17:00 gacha.",
+        "q6": "Kampus ekskursiyasini qanday rejalashtirish mumkin?",
+        "a6": "Oldindan ro‘yxatdan o‘tib tashrif buyurishingiz mumkin.",
+        "q7": "Qanday sport dasturlari mavjud?",
+        "a7": "Futbol, basketbol, suzish va boshqa sport turlari mavjud."
+    }
+}
