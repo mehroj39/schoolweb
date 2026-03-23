@@ -1,6 +1,6 @@
 export const aboutStatsData = [
   {
-    value: "Qarshi shahri 11-sonli Oybek nomidagi maktab haqida",
+    value: "Qarshi shahri 10-sonli Oybek nomidagi maktab haqida",
     label: "aboutStats.subtitle",
   },
 ];

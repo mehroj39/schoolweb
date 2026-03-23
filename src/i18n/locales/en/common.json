@@ -1,12 +1,12 @@
 {
     "hero": {
-        "title": "Welcome to School No.11 named after Oybek in Karshi city",
+        "title": "Welcome to School No.10 named after Oybek in Karshi city",
         "subtitle": "Together for knowledge, education and future generation",
         "apply": "Apply now",
         "more": "Learn more"
     },
     "navbar": {
-        "logo": "School No.11 named after Oybek",
+        "logo": "School No.10 named after Oybek",
         "home": "Home",
         "about": "About",
         "curriculum": "Curriculum",
@@ -24,7 +24,7 @@
         "email_placeholder": "Your email",
         "subscribe": "Subscribe",
         "social": "Social media",
-        "copyright": "© 2026 School No.11 named after Oybek. All rights reserved."
+        "copyright": "© 2026 School No.10 named after Oybek. All rights reserved."
     },
     "card": {
         "schedule": {
@@ -63,7 +63,7 @@
         "button": "Apply now"
     },
     "aboutCTA": {
-        "title": "About School No.11 named after Oybek in Qarshi",
+        "title": "About School No.10 named after Oybek in Qarshi",
         "subtitle": "A leading educational institution in Kashkadarya region, aiming to develop well-rounded individuals",
         "button": "Learn more"
     },
@@ -79,12 +79,12 @@
             "music": "Music Room"
         },
         "hero": {
-            "title": "About School No. 11 named after Oybek in Karshi",
+            "title": "About School No. 10 named after Oybek in Karshi",
             "subtitle": "A leading educational institution in Kashkadarya region, striving to educate well-rounded individuals"
         },
         "info": {
             "title": "Bizning missiyamiz va vazifamiz",
-            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 11-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
+            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 10-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
             "desc2": "Biz tanqidiy fikrlash, ijodkorlik va hamkorlikni rivojlantirishga ishonamiz. Bizning ahil jamoamiz o‘quvchilarning nafaqat akademik, balki ijtimoiy, hissiy va jismoniy jihatdan ham rivojlanishini ta’minlaydi.",
             "students": "O‘quvchilar",
             "teachers": "O‘qituvchilar"

@@ -1,12 +1,12 @@
 {
     "hero": {
-        "title": "Qarshi shahri 11-sonli Oybek nomidagi maktabga xush kelibsiz",
+        "title": "Qarshi shahri 10-sonli Oybek nomidagi maktabga xush kelibsiz",
         "subtitle": "Bilim, tarbiya va kelajak avlod uchun birga",
         "apply": "Qabul bo‘lish",
         "more": "Batafsil ma'lumot"
     },
     "navbar": {
-        "logo": "Oybek nomidagi 11-maktab",
+        "logo": "Oybek nomidagi 10-maktab",
         "home": "Bosh sahifa",
         "about": "Maktab haqida",
         "curriculum": "O‘quv dasturi",
@@ -24,7 +24,7 @@
         "email_placeholder": "Email manzilingiz",
         "subscribe": "Obuna bo‘lish",
         "social": "Ijtimoiy tarmoqlar",
-        "copyright": "© 2026 Qarshi shahri 11-sonli Oybek nomidagi umumiy o‘rta ta’lim maktabi. Barcha huquqlar himoyalangan."
+        "copyright": "© 2026 Qarshi shahri 10-sonli Oybek nomidagi umumiy o‘rta ta’lim maktabi. Barcha huquqlar himoyalangan."
     },
     "card": {
         "schedule": {
@@ -63,7 +63,7 @@
         "button": "Ariza topshirish"
     },
     "aboutCTA": {
-        "title": "Qarshi shahri 11-sonli Oybek nomidagi maktab haqida",
+        "title": "Qarshi shahri 10-sonli Oybek nomidagi maktab haqida",
         "subtitle": "Qashqadaryo viloyatining yetakchi ta'lim muassasasi, har tomonlama rivojlangan va uyg‘un shaxslarni tarbiyalashga intiladi",
         "button": "Batafsil ma'lumot"
     },
@@ -79,12 +79,12 @@
             "music": "Musiqa sinfi"
         },
         "hero": {
-            "title": "Qarshi shahri 11-sonli Oybek nomidagi maktab haqida",
+            "title": "Qarshi shahri 10-sonli Oybek nomidagi maktab haqida",
             "subtitle": "Qashqadaryo viloyatining yetakchi ta'lim muassasasi, har tomonlama rivojlangan va uyg‘un shaxslarni tarbiyalashga intiladi"
         },
         "info": {
             "title": "Bizning missiyamiz va vazifamiz",
-            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 11-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
+            "desc1": "1995-yilda tashkil etilgan Qarshi shahri 10-sonli Oybek nomidagi maktabi Qashqadaryo viloyatining yetakchi ta'lim muassasalaridan biriga aylandi. Maktabimiz buyuk o‘zbek shoiri va yozuvchisi Oybek nomini olishdan faxrlanadi.",
             "desc2": "Biz tanqidiy fikrlash, ijodkorlik va hamkorlikni rivojlantirishga ishonamiz. Bizning ahil jamoamiz o‘quvchilarning nafaqat akademik, balki ijtimoiy, hissiy va jismoniy jihatdan ham rivojlanishini ta’minlaydi.",
             "students": "O‘quvchilar",
             "teachers": "O‘qituvchilar"

@@ -31,7 +31,7 @@ const Navbar = () => {
         {/* LOGO */}
         <div className="flex items-center gap-2">
           <div className="bg-blue-600 text-white font-bold px-2 py-1 rounded-md">
-            №11
+            №10
           </div>
           <span className="font-semibold text-gray-800">
             {t("navbar.logo")}

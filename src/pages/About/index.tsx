@@ -18,7 +18,7 @@ const About = () => {
         <title>Biz haqimizda | 10-maktab Qarshi</title>
         <meta
           name="description"
-          content="11-maktab haqida batafsil ma'lumot. Tajribali o‘qituvchilar, zamonaviy sinfxonalar va sifatli ta’lim tizimi bilan tanishing."
+          content="10-maktab haqida batafsil ma'lumot. Tajribali o‘qituvchilar, zamonaviy sinfxonalar va sifatli ta’lim tizimi bilan tanishing."
         />
       </Helmet>
 

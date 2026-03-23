@@ -25,7 +25,7 @@ const Footer = () => {
           <div className="flex flex-col items-center sm:items-start">
             <div className="flex items-center gap-3 mb-4">
               <div className="bg-blue-600 text-white font-bold px-2 py-1 rounded-md">
-                №11
+                №10
               </div>
               <h1 className="text-white font-semibold text-lg">
                 {t("navbar.logo")}
@@ -81,7 +81,7 @@ const Footer = () => {
               <div className="flex gap-2 items-center">
                 <Mail size={16} />
                 <span className="break-all">
-                  info@maktab11qarshi.uz
+                  info@maktab10qarshi.uz
                 </span>
               </div>
             </div>
