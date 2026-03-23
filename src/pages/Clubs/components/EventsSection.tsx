@@ -9,9 +9,9 @@ const EventsSection = () => {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
+        <h1 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
           {t("clubs.events.title")}
-        </h2>
+        </h1>
 
         {/* LIST */}
         <div className="mt-10 space-y-6">
@@ -29,9 +29,9 @@ const EventsSection = () => {
 
               {/* CONTENT */}
               <div>
-                <h3 className="text-lg font-semibold text-gray-800">
+                <h2 className="text-lg font-semibold text-gray-800">
                   {t(item.title)}
-                </h3>
+                </h2>
 
                 <p className="text-gray-500 mt-1 text-sm">
                   {t(item.desc)}

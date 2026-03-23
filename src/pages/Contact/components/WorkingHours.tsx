@@ -11,7 +11,7 @@ const WorkingHours = () => {
         <div className="bg-white border rounded-xl shadow-sm p-6 md:p-8 flex gap-5">
 
           {/* ICON */}
-          <div className="w-12 h-12 flex items-center justify-center rounded-full bg-blue-100 text-blue-600">
+          <div className="w-12 h-12 flex items-center justify-center rounded-full bg-blue-300 text-blue-600">
             <Clock size={22} />
           </div>
 
@@ -19,9 +19,9 @@ const WorkingHours = () => {
           <div className="w-full">
 
             {/* TITLE */}
-            <h3 className="text-lg font-semibold text-gray-800">
+            <p className="text-xl font-semibold text-gray-800">
               {t("contact.hours.title")}
-            </h3>
+            </p>
 
             {/* GRID */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">

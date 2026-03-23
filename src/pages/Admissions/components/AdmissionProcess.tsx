@@ -35,9 +35,9 @@ const AdmissionProcess = () => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("admissions.process.title")}
-        </h2>
+        </h1>
 
         {/* GRID */}
         <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
@@ -53,9 +53,9 @@ const AdmissionProcess = () => {
               </div>
 
               {/* TITLE */}
-              <h3 className="mt-4 font-semibold text-gray-800">
+              <h2 className="mt-4 font-semibold text-gray-800">
                 {t(step.title)}
-              </h3>
+              </h2>
 
               {/* DESC */}
               <p className="mt-2 text-gray-500 text-sm">

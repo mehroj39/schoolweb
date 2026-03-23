@@ -20,9 +20,9 @@ const TeachersSection = ({ data }: Props) => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("teachers.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-2">
           {t("teachers.subtitle")}
@@ -53,9 +53,9 @@ const TeachersSection = ({ data }: Props) => {
 
               {/* CONTENT */}
               <div className="p-4">
-                <h3 className="text-lg font-semibold text-gray-800">
+                <h2 className="text-lg font-semibold text-gray-800">
                   {item.name}
-                </h3>
+                </h2>
 
                 <p className="text-blue-600 text-sm mt-1">
                   {t(item.subject)}

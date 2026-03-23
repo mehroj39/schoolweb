@@ -4,13 +4,13 @@ const JoinSection = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-green-600 py-16 text-center text-white">
+    <section className="bg-green-700 py-16 text-center text-white">
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold">
+        <h1 className="text-3xl md:text-4xl font-semibold">
           {t("clubs.join.title")}
-        </h2>
+        </h1>
 
         {/* SUBTITLE */}
         <p className="mt-4 text-lg text-green-100">

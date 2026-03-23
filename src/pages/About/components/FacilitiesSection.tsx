@@ -17,9 +17,9 @@ const FacilitiesSection = ({ data }: Props) => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("about.facilities.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-3 max-w-2xl mx-auto">
           {t("about.facilities.subtitle")}
@@ -40,9 +40,9 @@ const FacilitiesSection = ({ data }: Props) => {
               </div>
 
               {/* TITLE */}
-              <h3 className="mt-4 text-lg font-medium text-gray-800">
+              <h2 className="mt-4 text-lg font-medium text-gray-800">
                 {t(item.title)}
-              </h3>
+              </h2>
 
             </div>
           ))}

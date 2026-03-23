@@ -4,13 +4,13 @@ const ContactCTA = () => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-green-600 py-16">
+    <section className="bg-green-700 py-16">
       <div className="max-w-5xl mx-auto px-6 text-center text-white">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold">
+        <h1 className="text-3xl md:text-4xl font-semibold">
           {t("admissions.contact.title")}
-        </h2>
+        </h1>
 
         {/* SUBTITLE */}
         <p className="mt-4 text-green-100 max-w-2xl mx-auto">

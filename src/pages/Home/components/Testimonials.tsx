@@ -21,9 +21,9 @@ const Testimonials = () => {
     <section className="bg-[#f7f7f7] py-16">
       <div className="max-w-4xl mx-auto px-6 text-center">
         
-        <h2 className="text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
+        <h1 className="text-2xl md:text-3xl font-semibold text-gray-800 mb-10">
           {t("testimonials.title")}
-        </h2>
+        </h1>
 
         <div className="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm relative">
           
@@ -43,11 +43,11 @@ const Testimonials = () => {
             "{t(item.text)}"
           </p>
 
-          <h4 className="mt-6 font-semibold text-gray-800">
+          <p className="text-lg mt-6 font-semibold text-gray-800">
             {item.name}
-          </h4>
+          </p>
 
-          <p className="text-sm text-gray-400">{t(item.role)}</p>
+          <p className="text-sm text-gray-600">{t(item.role)}</p>
 
           {/* arrows */}
           <button

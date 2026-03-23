@@ -32,9 +32,9 @@ const ValuesSection = () => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-center text-2xl md:text-4xl font-semibold text-gray-800 mb-12">
+        <h1 className="text-center text-2xl md:text-4xl font-semibold text-gray-800 mb-12">
           {t("about.values.title")}
-        </h2>
+        </h1>
 
         {/* CARDS */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -49,9 +49,9 @@ const ValuesSection = () => {
               </div>
 
               {/* TITLE */}
-              <h3 className="font-semibold text-gray-800">
+              <h2 className="font-semibold text-gray-800">
                 {t(item.title)}
-              </h3>
+              </h2>
 
               {/* DESC */}
               <p className="text-sm text-gray-500 mt-2 leading-relaxed">

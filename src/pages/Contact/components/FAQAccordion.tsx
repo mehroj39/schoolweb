@@ -46,9 +46,9 @@ const FaqAccordion = () => {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
+        <h1 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
           {t("faq.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-3">
           {t("faq.subtitle")}

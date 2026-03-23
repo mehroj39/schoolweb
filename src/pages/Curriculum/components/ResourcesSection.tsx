@@ -19,9 +19,9 @@ const ResourcesSection = ({ data }: Props) => {
       <div className="max-w-5xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("curriculum.resources.title")}
-        </h2>
+        </h1>
 
         {/* GRID */}
         <div className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -39,9 +39,9 @@ const ResourcesSection = ({ data }: Props) => {
 
                 {/* CONTENT */}
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-800">
+                  <h2 className="text-lg font-semibold text-gray-800">
                     {t(item.title)}
-                  </h3>
+                  </h2>
 
                   <p className="text-gray-500 text-sm mt-1">
                     {t(item.desc)}

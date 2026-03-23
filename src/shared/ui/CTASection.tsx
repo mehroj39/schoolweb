@@ -11,12 +11,12 @@ const CTASection = ({ title, subtitle, buttonText }: Props) => {
   const { t } = useTranslation();
 
   return (
-    <section className="bg-green-600 text-white py-16 text-center">
+    <section className="bg-green-700 text-white py-16 text-center">
       <div className="max-w-4xl mx-auto px-6">
         
-        <h2 className="text-2xl md:text-3xl font-semibold">
+        <h1 className="text-2xl md:text-3xl font-semibold">
           {t(title)}
-        </h2>
+        </h1>
 
         <p className="mt-4 text-green-100">
           {t(subtitle)}

@@ -9,7 +9,7 @@ export const programsData = [
     title: "curriculum.programs.languages.title",
     desc: "curriculum.programs.languages.desc",
     icon: "🌍",
-    bg: "bg-green-600",
+    bg: "bg-green-700",
   },
   {
     title: "curriculum.programs.stem.title",

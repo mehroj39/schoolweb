@@ -41,9 +41,9 @@ const TeamSection = ({ data }: Props) => {
 
               {/* CONTENT */}
               <div className="p-5">
-                <h3 className="text-lg font-semibold text-gray-800">
+                <h2 className="text-lg font-semibold text-gray-800">
                   {item.name}
-                </h3>
+                </h2>
 
                 <p className="text-blue-600 text-sm mt-1">
                   {t(item.role)}

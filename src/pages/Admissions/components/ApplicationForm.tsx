@@ -8,9 +8,9 @@ const ApplicationForm = () => {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("admissions.form.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-3">
           {t("admissions.form.subtitle")}
@@ -20,9 +20,9 @@ const ApplicationForm = () => {
         <div className="mt-10 bg-white p-8 rounded-xl shadow-sm border">
 
           {/* STUDENT */}
-          <h3 className="text-lg font-semibold mb-4">
+          <h2 className="text-lg font-semibold mb-4">
             {t("admissions.form.student")}
-          </h3>
+          </h2>
 
           <div className="grid md:grid-cols-2 gap-4">
             <input className="input" placeholder={t("admissions.form.name")} />

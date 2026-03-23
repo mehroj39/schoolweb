@@ -8,9 +8,9 @@ const PaymentSection = () => {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("admissions.payment.title")}
-        </h2>
+        </h1>
 
         {/* TABLE */}
         <div className="mt-10 overflow-hidden rounded-xl shadow-sm border bg-white">

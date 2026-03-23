@@ -19,9 +19,9 @@ const AboutInfo = () => {
 
         {/* TEXT */}
         <div>
-          <h2 className="text-2xl md:text-4xl font-semibold text-gray-800">
+          <h1 className="text-2xl md:text-4xl font-semibold text-gray-800">
             {t("about.info.title")}
-          </h2>
+          </h1>
 
           <p className="mt-4 text-gray-600 leading-relaxed">
             {t("about.info.desc1")}
@@ -34,16 +34,16 @@ const AboutInfo = () => {
           {/* STATS */}
           <div className="mt-6 flex flex-col sm:flex-row gap-4">
             
-            <div className="bg-blue-100 px-6 py-4 rounded-xl w-full">
-              <h3 className="text-blue-600 text-2xl font-semibold">
+            <div className="bg-blue-300 px-6 py-4 rounded-xl w-full">
+              <h2 className="text-blue-600 text-2xl font-semibold">
                 950+
-              </h3>
+              </h2>
               <p className="text-gray-700 text-sm mt-1">
                 {t("about.info.students")}
               </p>
             </div>
 
-            <div className="bg-green-100 px-6 py-4 rounded-xl w-full">
+            <div className="bg-green-200 px-6 py-4 rounded-xl w-full">
               <h3 className="text-green-600 text-2xl font-semibold">
                 52+
               </h3>

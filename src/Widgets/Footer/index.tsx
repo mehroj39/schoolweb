@@ -27,21 +27,21 @@ const Footer = () => {
               <div className="bg-blue-600 text-white font-bold px-2 py-1 rounded-md">
                 №11
               </div>
-              <h2 className="text-white font-semibold text-lg">
+              <h1 className="text-white font-semibold text-lg">
                 {t("navbar.logo")}
-              </h2>
+              </h1>
             </div>
 
-            <p className="text-sm text-gray-400 leading-relaxed max-w-xs">
+            <p className="text-sm text-gray-600 leading-relaxed max-w-xs">
               {t("footer.desc")}
             </p>
           </div>
 
           {/* LINKS */}
           <div>
-            <h3 className="text-white font-semibold mb-4">
+            <h2 className="text-white font-semibold mb-4">
               {t("footer.quick_links")}
-            </h3>
+            </h2>
 
             <ul className="space-y-2">
               {footerLinks.map((link) => (
@@ -93,7 +93,7 @@ const Footer = () => {
               {t("footer.newsletter")}
             </h3>
 
-            <p className="text-sm text-gray-400 mb-3 max-w-xs">
+            <p className="text-sm text-gray-600 mb-3 max-w-xs">
               {t("footer.subscribe_text")}
             </p>
 
@@ -136,7 +136,7 @@ const Footer = () => {
           </div>
 
           {/* COPYRIGHT */}
-          <p className="text-sm text-gray-400">
+          <p className="text-sm text-gray-600">
             {t("footer.copyright")}
           </p>
         </div>

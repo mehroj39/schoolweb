@@ -19,9 +19,9 @@ const SpecialProgramsSection = ({ data }: Props) => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("curriculum.programs.title")}
-        </h2>
+        </h1>
 
         {/* CARDS */}
         <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -39,9 +39,9 @@ const SpecialProgramsSection = ({ data }: Props) => {
               </div>
 
               {/* TITLE */}
-              <h3 className="mt-4 text-lg font-semibold text-gray-800">
+              <h2 className="mt-4 text-lg font-semibold text-gray-800">
                 {t(item.title)}
-              </h3>
+              </h2>
 
               {/* DESC */}
               <p className="mt-2 text-gray-500 text-sm">

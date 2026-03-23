@@ -56,9 +56,9 @@ const CurriculumAccordion = () => {
       <div className="max-w-4xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
+        <h1 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
           {t("curriculum.info.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-3">
           {t("curriculum.info.subtitle")}
@@ -93,9 +93,9 @@ const CurriculumAccordion = () => {
                     {t(item.desc)}
                   </p>
 
-                  <h4 className="mt-4 font-semibold text-gray-800">
+                  <p className="text-lg mt-4 font-semibold text-gray-800">
                     {t("curriculum.subjects")}
-                  </h4>
+                  </p>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-2 text-gray-600">
                     {item.subjects.map((s, i) => (
@@ -103,7 +103,7 @@ const CurriculumAccordion = () => {
                     ))}
                   </div>
 
-                  <button className="mt-5 bg-green-600 hover:bg-green-700 text-white px-5 py-2 rounded-lg">
+                  <button className="mt-5 bg-green-700 hover:bg-green-700 text-white px-5 py-2 rounded-lg">
                     {t("curriculum.download")}
                   </button>
 

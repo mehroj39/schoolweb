@@ -18,9 +18,9 @@ const ProgramsSection = () => {
       <div className="max-w-7xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
+        <h1 className="text-3xl md:text-4xl text-center font-semibold text-gray-800">
           {t("clubs.programs.title")}
-        </h2>
+        </h1>
 
         {/* TABS */}
         <div className="flex justify-center gap-3 mt-6 flex-wrap">
@@ -60,9 +60,9 @@ const ProgramsSection = () => {
                 </span>
 
                 {/* TITLE */}
-                <h3 className="text-lg font-semibold text-gray-800">
+                <h2 className="text-lg font-semibold text-gray-800">
                   {t(item.title)}
-                </h3>
+                </h2>
 
                 {/* DESC */}
                 <p className="text-gray-500 mt-2 text-sm">

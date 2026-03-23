@@ -30,7 +30,7 @@ const Hero = () => {
           
           <Link
             to="/admissions"
-            className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-medium"
+            className="bg-green-700 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-medium"
           >
             {t("hero.apply")}
           </Link>

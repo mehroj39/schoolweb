@@ -19,9 +19,9 @@ const ImportantDatesSection = ({ data }: Props) => {
       <div className="max-w-3xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("admissions.dates.title")}
-        </h2>
+        </h1>
 
         {/* LIST */}
         <div className="mt-10 space-y-6">
@@ -41,9 +41,9 @@ const ImportantDatesSection = ({ data }: Props) => {
                   {t(item.date)}
                 </p>
 
-                <h3 className="text-lg font-semibold text-gray-800 mt-1">
+                <h2 className="text-lg font-semibold text-gray-800 mt-1">
                   {t(item.title)}
-                </h3>
+                </h2>
 
                 <p className="text-gray-500 text-sm mt-1">
                   {t(item.desc)}

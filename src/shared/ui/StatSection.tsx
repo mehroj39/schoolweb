@@ -18,9 +18,9 @@ const StatsSection = ({ data }: Props) => {
         
         {data.map((item, i) => (
           <div key={i}>
-            <h2 className="text-3xl md:text-4xl font-semibold">
+            <h1 className="text-3xl md:text-4xl font-semibold">
               {item.value}
-            </h2>
+            </h1>
             <p className="mt-2 text-sm md:text-base text-blue-100">
               {t(item.label)}
             </p>

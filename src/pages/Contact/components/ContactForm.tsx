@@ -8,9 +8,9 @@ const ContactForm = () => {
       <div className="max-w-3xl mx-auto px-6">
 
         {/* TITLE */}
-        <h2 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
+        <h1 className="text-3xl md:text-4xl font-semibold text-center text-gray-800">
           {t("contact.form.title")}
-        </h2>
+        </h1>
 
         <p className="text-center text-gray-500 mt-3">
           {t("contact.form.subtitle")}

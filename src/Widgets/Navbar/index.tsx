@@ -62,7 +62,7 @@ const Navbar = () => {
                 onClick={() => changeLang(lang)}
                 className={`px-2 py-1 rounded-md ${
                   currentLang === lang
-                    ? "bg-green-600 text-white"
+                    ? "bg-green-700 text-white"
                     : "text-gray-700"
                 }`}
               >
@@ -73,7 +73,7 @@ const Navbar = () => {
 
           <Link
             to="/apply"
-            className="bg-green-600 text-white px-4 py-2 rounded-lg"
+            className="bg-green-700 text-white px-4 py-2 rounded-lg"
           >
             {t("navbar.apply")}
           </Link>
@@ -124,7 +124,7 @@ const Navbar = () => {
           <Link
             to="/apply"
             onClick={() => setIsOpen(false)}
-            className="block mt-4 bg-green-600 text-white text-center py-2 rounded"
+            className="block mt-4 bg-green-700 text-white text-center py-2 rounded"
           >
             {t("navbar.apply")}
           </Link>
