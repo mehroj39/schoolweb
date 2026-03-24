@@ -38,8 +38,8 @@ const Navbar = () => {
           </span>
         </div>
 
-        {/* CENTER GRID NAV (DESKTOP) */}
-        <nav className="hidden lg:grid grid-cols-3 gap-x-8 gap-y-2 text-center text-gray-700">
+        {/* DESKTOP NAV (FIXED ✅ FLEX) */}
+        <nav className="hidden lg:flex items-center gap-6 text-gray-700">
           {navLinks.map((link) => (
             <Link
               key={link.path}
@@ -51,19 +51,19 @@ const Navbar = () => {
           ))}
         </nav>
 
-        {/* RIGHT */}
+        {/* RIGHT SIDE */}
         <div className="hidden lg:flex items-center gap-4">
-          
+
           {/* LANG */}
           <div className="flex bg-gray-200 rounded-lg p-1 text-sm">
             {["uz", "ru", "en"].map((lang) => (
               <button
                 key={lang}
                 onClick={() => changeLang(lang)}
-                className={`px-2 py-1 rounded-md ${
+                className={`px-2 py-1 rounded-md transition ${
                   currentLang === lang
                     ? "bg-green-700 text-white"
-                    : "text-gray-700"
+                    : "text-gray-700 hover:text-black"
                 }`}
               >
                 {lang.toUpperCase()}
@@ -71,14 +71,18 @@ const Navbar = () => {
             ))}
           </div>
 
+          {/* APPLY */}
           <Link
             to="/apply"
-            className="bg-green-700 text-white px-4 py-2 rounded-lg"
+            className="bg-green-700 hover:bg-green-800 text-white px-4 py-2 rounded-lg transition"
           >
             {t("navbar.apply")}
           </Link>
 
-          <Search size={20} />
+          {/* SEARCH */}
+          <button className="text-gray-700 hover:text-black">
+            <Search size={20} />
+          </button>
         </div>
 
         {/* MOBILE BUTTON */}
@@ -90,10 +94,11 @@ const Navbar = () => {
         </button>
       </div>
 
-      {/* MOBILE GRID MENU */}
+      {/* MOBILE MENU */}
       {isOpen && (
         <div className="lg:hidden bg-white border-t px-4 py-4">
 
+          {/* LINKS GRID (faqat mobile) */}
           <div className="grid grid-cols-2 gap-4 text-center">
             {navLinks.map((link) => (
               <Link

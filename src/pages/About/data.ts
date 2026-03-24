@@ -49,27 +49,27 @@ export const teamData = [
 export const facilitiesData = [
   {
     title: "about.facilities.classrooms",
-    img: "src/assets/images/classroom.jpg",
+    img: "src/assets/modern.jpg",
   },    
   {
     title: "about.facilities.labs",
-    img: "src/assets/images/lab.jpg",
+    img: "src/assets/kasbhunar.jpg",
   },
   {
     title: "about.facilities.library",
-    img: "src/assets/images/library.jpg",
+    img: "src/assets/libraryy.jpg",
   },
   {
     title: "about.facilities.sport",
-    img: "src/assets/images/sport.jpg",
+    img: "src/assets/sport.jpg",
   },
   {
     title: "about.facilities.art",
-    img: "src/assets/images/art.jpg",
+    img: "src/assets/modern.jpg",
   },
   {
     title: "about.facilities.music",
-    img: "src/assets/images/music.jpg",
+    img: "src/assets/inclusive.jpg",
   }
 ];
 
