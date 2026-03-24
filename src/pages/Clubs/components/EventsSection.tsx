@@ -23,7 +23,7 @@ const EventsSection = () => {
               
               {/* DATE BOX */}
               <div className="bg-blue-600 text-white rounded-lg w-14 h-14 flex flex-col items-center justify-center font-semibold">
-                <span className="text-sm">📅</span>
+                <span className="text-base">📅</span>
                 <span>{item.day}</span>
               </div>
 
@@ -33,11 +33,11 @@ const EventsSection = () => {
                   {t(item.title)}
                 </h2>
 
-                <p className="text-gray-500 mt-1 text-sm">
+                <p className="text-gray-500 mt-1 text-base">
                   {t(item.desc)}
                 </p>
 
-                <div className="flex flex-wrap gap-4 mt-3 text-sm text-gray-500">
+                <div className="flex flex-wrap gap-4 mt-3 text-base text-gray-500">
                   <span>📅 {item.date}</span>
                   <span>🕒 {item.time}</span>
                   <span>📍 {t(item.location)}</span>

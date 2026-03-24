@@ -23,7 +23,7 @@ const ContactForm = () => {
 
             {/* NAME */}
             <div>
-              <label className="block text-sm text-gray-700 mb-1">
+              <label className="block text-base text-gray-700 mb-1">
                 {t("contact.form.name")} <span className="text-red-500">*</span>
               </label>
               <input
@@ -35,7 +35,7 @@ const ContactForm = () => {
 
             {/* EMAIL */}
             <div>
-              <label className="block text-sm text-gray-700 mb-1">
+              <label className="block text-base text-gray-700 mb-1">
                 {t("contact.form.email")} <span className="text-red-500">*</span>
               </label>
               <input
@@ -47,7 +47,7 @@ const ContactForm = () => {
 
             {/* PHONE */}
             <div>
-              <label className="block text-sm text-gray-700 mb-1">
+              <label className="block text-base text-gray-700 mb-1">
                 {t("contact.form.phone")}
               </label>
               <input
@@ -59,7 +59,7 @@ const ContactForm = () => {
 
             {/* SUBJECT */}
             <div>
-              <label className="block text-sm text-gray-700 mb-1">
+              <label className="block text-base text-gray-700 mb-1">
                 {t("contact.form.subject")} <span className="text-red-500">*</span>
               </label>
               <select className="w-full px-4 py-2 rounded-md border bg-gray-100 focus:outline-none">
@@ -72,7 +72,7 @@ const ContactForm = () => {
 
             {/* MESSAGE */}
             <div>
-              <label className="block text-sm text-gray-700 mb-1">
+              <label className="block text-base text-gray-700 mb-1">
                 {t("contact.form.message")} <span className="text-red-500">*</span>
               </label>
               <textarea

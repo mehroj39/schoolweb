@@ -22,7 +22,7 @@ const Hero = () => {
           {t("hero.title")}
         </h1>
 
-        <p className="mt-4 text-gray-200 text-sm sm:text-base md:text-lg">
+        <p className="mt-4 text-gray-200 text-base sm:text-base md:text-lg">
           {t("hero.subtitle")}
         </p>
 

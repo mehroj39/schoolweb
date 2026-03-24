@@ -57,16 +57,16 @@ const TeachersSection = ({ data }: Props) => {
                   {item.name}
                 </h2>
 
-                <p className="text-blue-600 text-sm mt-1">
+                <p className="text-blue-600 text-base mt-1">
                   {t(item.subject)}
                 </p>
 
-                <p className="text-gray-500 text-sm mt-2">
+                <p className="text-gray-500 text-base mt-2">
                   {t(item.desc)}
                 </p>
 
                 {/* BUTTON */}
-                <button className="mt-3 flex items-center gap-2 text-green-600 text-sm hover:underline">
+                <button className="mt-3 flex items-center gap-2 text-green-600 text-base hover:underline">
                   <Mail size={16} />
                   {t("teachers.contact")}
                 </button>

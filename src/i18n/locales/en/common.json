@@ -271,16 +271,7 @@
             "notes": "Additional Notes",
             "submit": "Submit Application"
         },
-        "payment": {
-            "title": "Fee Structure",
-            "grade": "Grade Level",
-            "yearly": "Annual Fee",
-            "registration": "Registration Fee",
-            "primary": "Primary School (1-4)",
-            "middle": "Middle School (5-9)",
-            "high": "High School (10-11)",
-            "note": "* Fees include textbooks, sports uniform, and meals. Additional clubs may require extra charges."
-        },
+      
         "dates": {
             "title": "Important Dates",
             "may": {

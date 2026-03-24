@@ -43,13 +43,13 @@ const ResourcesSection = ({ data }: Props) => {
                     {t(item.title)}
                   </h2>
 
-                  <p className="text-gray-500 text-sm mt-1">
+                  <p className="text-gray-500 text-base mt-1">
                     {t(item.desc)}
                   </p>
 
                   <a
                     href={item.file}
-                    className="inline-block mt-2 text-blue-600 text-sm hover:underline"
+                    className="inline-block mt-2 text-blue-600 text-base hover:underline"
                   >
                     {t("curriculum.resources.download")}
                   </a>

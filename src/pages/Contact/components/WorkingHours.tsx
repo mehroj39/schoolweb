@@ -55,7 +55,7 @@ const WorkingHours = () => {
             </div>
 
             {/* FOOTNOTE */}
-            <p className="text-sm text-gray-500 mt-4">
+            <p className="text-base text-gray-500 mt-4">
               {t("contact.hours.note")}
             </p>
 

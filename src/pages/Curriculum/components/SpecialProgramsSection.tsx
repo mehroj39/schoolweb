@@ -44,7 +44,7 @@ const SpecialProgramsSection = ({ data }: Props) => {
               </h2>
 
               {/* DESC */}
-              <p className="mt-2 text-gray-500 text-sm">
+              <p className="mt-2 text-gray-500 text-base">
                 {t(item.desc)}
               </p>
 

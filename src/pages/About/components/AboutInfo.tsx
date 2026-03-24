@@ -38,7 +38,7 @@ const AboutInfo = () => {
               <h2 className="text-blue-600 text-2xl font-semibold">
                 950+
               </h2>
-              <p className="text-gray-700 text-sm mt-1">
+              <p className="text-gray-700 text-base mt-1">
                 {t("about.info.students")}
               </p>
             </div>
@@ -47,7 +47,7 @@ const AboutInfo = () => {
               <h3 className="text-green-600 text-2xl font-semibold">
                 52+
               </h3>
-              <p className="text-gray-700 text-sm mt-1">
+              <p className="text-gray-700 text-base mt-1">
                 {t("about.info.teachers")}
               </p>
             </div>

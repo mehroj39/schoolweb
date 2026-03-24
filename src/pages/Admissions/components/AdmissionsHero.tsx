@@ -13,7 +13,7 @@ const AdmissionsHero = () => {
         </h1>
 
         {/* SUBTITLE */}
-        <p className="text-white/90 mt-4 text-sm md:text-lg">
+        <p className="text-white/90 mt-4 text-base md:text-lg">
           {t("admissions.hero.subtitle")}
         </p>
 

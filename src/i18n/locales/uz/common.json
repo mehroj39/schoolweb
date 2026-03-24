@@ -271,16 +271,7 @@
             "notes": "Qo'shimcha izohlar",
             "submit": "Ariza topshirish"
         },
-        "payment": {
-            "title": "To'lov tuzilmasi",
-            "grade": "Sinf darajasi",
-            "yearly": "Yillik to'lov",
-            "registration": "Ro'yxatdan o'tish to'lovi",
-            "primary": "Boshlang'ich sinf (1-4)",
-            "middle": "O'rta sinf (5-9)",
-            "high": "Yuqori sinf (10-11)",
-            "note": "* To'lovga darsliklar, sport kiyimlari va ovqat kiradi. Qo'shimcha to'garaklar uchun alohida haq olinishi mumkin."
-        },
+       
         "dates": {
             "jan_mar": {
                 "date": "1-Yanvar - 15-Mart",

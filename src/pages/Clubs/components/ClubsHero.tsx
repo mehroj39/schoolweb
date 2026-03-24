@@ -13,7 +13,7 @@ const ClubsHero = () => {
         </h1>
 
         {/* SUBTITLE */}
-        <p className="mt-4 text-blue-100 max-w-2xl mx-auto text-lg">
+        <p className="mt-4 text-blue-200 max-w-2xl mx-auto text-lg">
           {t("clubs.hero.subtitle")}
         </p>
 

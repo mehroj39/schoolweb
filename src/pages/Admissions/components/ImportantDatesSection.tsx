@@ -37,7 +37,7 @@ const ImportantDatesSection = ({ data }: Props) => {
 
               {/* CONTENT */}
               <div>
-                <p className="text-blue-600 text-sm font-medium">
+                <p className="text-blue-600 text-base font-medium">
                   {t(item.date)}
                 </p>
 
@@ -45,7 +45,7 @@ const ImportantDatesSection = ({ data }: Props) => {
                   {t(item.title)}
                 </h2>
 
-                <p className="text-gray-500 text-sm mt-1">
+                <p className="text-gray-500 text-base mt-1">
                   {t(item.desc)}
                 </p>
               </div>

@@ -47,7 +47,7 @@ const Testimonials = () => {
             {item.name}
           </p>
 
-          <p className="text-sm text-gray-600">{t(item.role)}</p>
+          <p className="text-base text-gray-600">{t(item.role)}</p>
 
           {/* arrows */}
           <button

@@ -13,7 +13,7 @@ const ContactHero = () => {
         </h1>
 
         {/* SUBTITLE */}
-        <p className="mt-4 text-lg text-blue-100 max-w-2xl mx-auto">
+        <p className="mt-4 text-lg text-blue-200 max-w-2xl mx-auto">
           {t("contact.hero.subtitle")}
         </p>
 

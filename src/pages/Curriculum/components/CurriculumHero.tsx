@@ -11,7 +11,7 @@ const CurriculumHero = () => {
           {t("curriculum.hero.title")}
         </h1>
 
-        <p className="mt-4 text-white/90 text-sm md:text-lg">
+        <p className="mt-4 text-white/90 text-base md:text-lg">
           {t("curriculum.hero.subtitle")}
         </p>
 

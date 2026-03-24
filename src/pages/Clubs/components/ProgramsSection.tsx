@@ -28,7 +28,7 @@ const ProgramsSection = () => {
             <button
               key={tab}
               onClick={() => setActive(tab)}
-              className={`px-4 py-2 rounded-lg text-sm font-medium transition
+              className={`px-4 py-2 rounded-lg text-base font-medium transition
                 ${
                   active === tab
                     ? "bg-blue-600 text-white"
@@ -65,7 +65,7 @@ const ProgramsSection = () => {
                 </h2>
 
                 {/* DESC */}
-                <p className="text-gray-500 mt-2 text-sm">
+                <p className="text-gray-500 mt-2 text-base">
                   {t(item.desc)}
                 </p>
 

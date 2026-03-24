@@ -22,8 +22,8 @@ const AboutHero = () => {
         {/* SUBTITLE */}
         <p className="
           mt-6 
-          text-blue-100 
-          text-sm 
+          text-blue-200 
+          text-base
           sm:text-base 
           md:text-lg
           max-w-3xl 

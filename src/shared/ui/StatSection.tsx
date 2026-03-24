@@ -21,7 +21,7 @@ const StatsSection = ({ data }: Props) => {
             <h1 className="text-3xl md:text-4xl font-semibold">
               {item.value}
             </h1>
-            <p className="mt-2 text-sm md:text-base text-blue-100">
+            <p className="mt-2 text-base md:text-base text-blue-200">
               {t(item.label)}
             </p>
           </div>

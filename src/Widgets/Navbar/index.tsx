@@ -55,16 +55,15 @@ const Navbar = () => {
         <div className="hidden lg:flex items-center gap-4">
 
           {/* LANG */}
-          <div className="flex bg-gray-200 rounded-lg p-1 text-sm">
+          <div className="flex bg-gray-200 rounded-lg p-1 text-base">
             {["uz", "ru", "en"].map((lang) => (
               <button
                 key={lang}
                 onClick={() => changeLang(lang)}
-                className={`px-2 py-1 rounded-md transition ${
-                  currentLang === lang
+                className={`px-2 py-1 rounded-md transition ${currentLang === lang
                     ? "bg-green-700 text-white"
                     : "text-gray-700 hover:text-black"
-                }`}
+                  }`}
               >
                 {lang.toUpperCase()}
               </button>
@@ -87,6 +86,7 @@ const Navbar = () => {
 
         {/* MOBILE BUTTON */}
         <button
+          aria-label="Open menu"
           className="lg:hidden"
           onClick={() => setIsOpen(!isOpen)}
         >

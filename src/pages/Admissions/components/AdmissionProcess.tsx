@@ -58,7 +58,7 @@ const AdmissionProcess = () => {
               </h2>
 
               {/* DESC */}
-              <p className="mt-2 text-gray-500 text-sm">
+              <p className="mt-2 text-gray-500 text-base">
                 {t(step.desc)}
               </p>
 

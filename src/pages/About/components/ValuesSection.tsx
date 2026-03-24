@@ -54,7 +54,7 @@ const ValuesSection = () => {
               </h2>
 
               {/* DESC */}
-              <p className="text-sm text-gray-500 mt-2 leading-relaxed">
+              <p className="text-base text-gray-500 mt-2 leading-relaxed">
                 {t(item.desc)}
               </p>
             </div>

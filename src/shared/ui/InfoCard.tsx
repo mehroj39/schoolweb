@@ -21,7 +21,7 @@ const InfoCard = ({ icon, title, description }: InfoCardProps) => {
       </h3>
 
       {/* DESC */}
-      <p className="text-sm text-gray-500 leading-relaxed">
+      <p className="text-base text-gray-500 leading-relaxed">
         {description}
       </p>
     </div>

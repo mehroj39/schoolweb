@@ -32,7 +32,7 @@ const Footer = () => {
               </h1>
             </div>
 
-            <p className="text-sm text-gray-600 leading-relaxed max-w-xs">
+            <p className="text-base text-gray-200 leading-relaxed max-w-xs">
               {t("footer.desc")}
             </p>
           </div>
@@ -63,7 +63,7 @@ const Footer = () => {
               {t("footer.contact")}
             </h3>
 
-            <div className="space-y-3 text-sm flex flex-col items-center sm:items-start">
+            <div className="space-y-3 text-base flex flex-col items-center sm:items-start">
               
               <div className="flex gap-2 items-start text-left">
                 <MapPin size={16} className="mt-1 shrink-0" />
@@ -93,7 +93,7 @@ const Footer = () => {
               {t("footer.newsletter")}
             </h3>
 
-            <p className="text-sm text-gray-600 mb-3 max-w-xs">
+            <p className="text-base text-gray-200 mb-3 max-w-xs">
               {t("footer.subscribe_text")}
             </p>
 
@@ -101,7 +101,7 @@ const Footer = () => {
               <input
                 type="email"
                 placeholder={t("footer.email_placeholder")}
-                className="w-full mb-3 px-3 py-2 rounded-md bg-[#3a3a3a] border border-gray-600 text-sm outline-none focus:border-blue-500"
+                className="w-full mb-3 px-3 py-2 rounded-md bg-[#3a3a3a] border border-gray-600 text-base outline-none focus:border-blue-500"
               />
 
               <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-md font-medium transition">
@@ -136,7 +136,7 @@ const Footer = () => {
           </div>
 
           {/* COPYRIGHT */}
-          <p className="text-sm text-gray-600">
+          <p className="text-base text-gray-600">
             {t("footer.copyright")}
           </p>
         </div>

@@ -61,7 +61,7 @@ h1 {
 }
 
 .input {
-  @apply w-full border rounded-lg px-4 py-2 text-sm outline-none focus:ring-2 focus:ring-blue-500;
+  @apply w-full border rounded-lg px-4 py-2 text-base outline-none focus:ring-2 focus:ring-blue-500;
 }
 h2 {
   font-size: 24px;

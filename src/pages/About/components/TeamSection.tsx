@@ -45,11 +45,11 @@ const TeamSection = ({ data }: Props) => {
                   {item.name}
                 </h2>
 
-                <p className="text-blue-600 text-sm mt-1">
+                <p className="text-blue-600 text-base mt-1">
                   {t(item.role)}
                 </p>
 
-                <p className="text-gray-500 text-sm mt-2">
+                <p className="text-gray-500 text-base mt-2">
                   {t(item.desc)}
                 </p>
               </div>
