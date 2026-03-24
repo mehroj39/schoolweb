@@ -271,7 +271,6 @@
             "notes": "Additional Notes",
             "submit": "Submit Application"
         },
-      
         "dates": {
             "title": "Important Dates",
             "may": {
@@ -360,7 +359,6 @@
         }
     },
     "contact": {
-        
         "hours": {
             "title": "Working Hours",
             "school": "School Days",
@@ -427,5 +425,12 @@
         "a6": "You can register in advance.",
         "q7": "What sports programs are available?",
         "a7": "Football, basketball, swimming, and more."
+    },
+    "application": {
+        "title": "School Application",
+        "name": "Name",
+        "surname": "Surname",
+        "phone": "Phone",
+        "submit": "Submit"
     }
 }

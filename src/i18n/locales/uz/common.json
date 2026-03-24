@@ -271,7 +271,6 @@
             "notes": "Qo'shimcha izohlar",
             "submit": "Ariza topshirish"
         },
-       
         "dates": {
             "jan_mar": {
                 "date": "1-Yanvar - 15-Mart",
@@ -446,5 +445,14 @@
         "a6": "Oldindan ro‘yxatdan o‘tib tashrif buyurishingiz mumkin.",
         "q7": "Qanday sport dasturlari mavjud?",
         "a7": "Futbol, basketbol, suzish va boshqa sport turlari mavjud."
-    }
+    },
+    
+        "application": {
+            "title": "Maktabga ariza",
+            "name": "Ism",
+            "surname": "Familiya",
+            "phone": "Telefon",
+            "submit": "Yuborish"
+        }
+    
 }
